@@ -9,7 +9,7 @@ When executed the text from abc.txt will be turned into an mp3, saved and then p
 
 ### How to run the script
 Write your desired text into the abc.txt file
-then execute the txtToSpeech.py file. This can be 
-done by typing 'python txtToSpeech.py' into your Terminal.
+then execute the app.py file. This can be 
+done by typing 'python app.py' into your Terminal.
 
 
